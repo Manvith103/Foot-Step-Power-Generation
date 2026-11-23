@@ -1,0 +1,4 @@
+# Project Images
+
+This folder contains photographs of the
+Foot Step Power Generation Prototype
